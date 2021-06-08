@@ -39,7 +39,7 @@
 
 <br>
 
-## Contato :iphone:
+## Contato! :iphone:
 
 <p align="center">
     <a href="https://github.com/duducardoso">
@@ -57,7 +57,7 @@
 
 <br>
 
- ## Total de Visitas no perfil :detective:
+ ## Total de Visitas do Perfil! :detective:
  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/duducardoso/count.svg" />
