@@ -1,4 +1,4 @@
-### Olá! Eu sou Eduardo Cardoso :wave:
+### Olá! Eu sou Eduardo Cardoso 👋🏻
 - Eu moro no Rio de Janeiro :sunglasses::beach_umbrella:
 - Sou apaixonado por Tecnologia :computer::coffee::hearts:
 <hr>
