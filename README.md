@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-### Minhas Skills! :man_technologist:
+### Minhas Skills! 👨🏻‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="Eduardo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
