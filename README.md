@@ -2,7 +2,7 @@
 - I live in Rio de Janeiro :sunglasses::beach_umbrella:
 - I'm passionate about Technology :computer::coffee::hearts:
 - Software Engineering Student, 1st Semester 🌱📚
-- Fan of geek culture: Comics, Movies, Games and Anime 🤓🎮
+- Fan of geek culture: Comics, Movies, Games and Animes 🤓🎮
 
 <hr>
 <br>
