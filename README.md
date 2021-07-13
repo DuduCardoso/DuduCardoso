@@ -1,8 +1,8 @@
-# Olá! Eu sou Eduardo Cardoso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-- Eu moro no Rio de Janeiro :sunglasses::beach_umbrella:
-- Sou apaixonado por Tecnologia :computer::coffee::hearts:
-- Estudante de Engenharia de Software, 1°Semestre 🌱📚
-- Fã da Cultura Nerd: HQ's, Filmes, Games e Animes 🤓🎮
+# Helo! I'm Eduardo Cardoso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+- I live in Rio de Janeiro :sunglasses::beach_umbrella:
+- I'm passionate about Technology :computer::coffee::hearts:
+- Software Engineering Student, 1st Semester 🌱📚
+- Fan of geek culture: Comics, Movies, Games and Anime 🤓🎮
 
 <hr>
 <br>
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-## Minhas Skills! 👨🏻‍💻
+## My Skills! 👨🏻‍💻
 
 <div style="display: inline_block">
   <img align="center" alt="Eduardo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,7 +39,7 @@
 
 <br>
 
-## Contato! :iphone:
+## Contact! :iphone:
 
 <p align="center">
     <a href="https://github.com/duducardoso">
@@ -57,7 +57,7 @@
 
 <br>
 
- ## Total de Visitas do Perfil! :detective:
+ ## Total Profile Hits! :detective:
  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/duducardoso/count.svg" />
