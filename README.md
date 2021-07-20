@@ -1,4 +1,4 @@
-# Helo! I'm Eduardo Cardoso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hello! I'm Eduardo Cardoso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 - I live in Rio de Janeiro :sunglasses::beach_umbrella:
 - I'm passionate about Technology :computer::coffee::hearts:
 - Software Engineering Student, 1st Semester 🌱📚
