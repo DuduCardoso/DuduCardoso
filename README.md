@@ -1,7 +1,7 @@
 # Hello! I'm Eduardo Cardoso <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 - I live in Rio de Janeiro :sunglasses::beach_umbrella:
 - I'm passionate about Technology :computer::coffee::hearts:
-- Software Engineering Student, 1st Semester 🌱📚
+- Software Engineering Student, 2st Semester 🌱📚
 - Fan of geek culture: Comics, Movies, Games and Animes 🤓🎮
 
 <hr>
