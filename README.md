@@ -12,7 +12,7 @@
 
 ### Um Pouco Sobre Mim:
 <div style="display: inline_block"  >
-<img align="right" width="400" height="250" style="border-radius:30px;" src="https://1.bp.blogspot.com/-PqPsLEauMc8/VvMyuvSF11I/AAAAAAAAAsA/vBk97wpAbRUhfpVnBUForn1eDyaOHVp8A/s1600/tumblr_n3f82uVRJx1sodqmno1_500.gif" />
+<img align="right" width="400" height="250" style="border-radius:30px;" src="Luffy.gif?raw=true" />
 <p> - 🏖 Sou carioca e moro no Rio de Janeiro, Brasil </p>
 <p> - 💙 Apaixonado por Tecnologia </p>
 <p> - 👨‍💻 ServiceNow Developer na Extreme Digital Solutions - EDS </p>
@@ -27,7 +27,7 @@
   <img width="40" height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img width="40" height="Git" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img width="40" alt="ServiceNow" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/servicenow_logo_icon_168835.png"/>
+  <img width="40" alt="ServiceNow" src="ServiceNow.svg?raw=true"/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=duducardoso&theme=gotham&hide_border=true&area=true)
