@@ -10,6 +10,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duducardoso&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<hr>
+
 ### Um Pouco Sobre Mim:
 <div style="display: inline_block"  >
 <img align="right" width="400" height="250" style="border-radius:30px;" src="Luffy.gif?raw=true" />
@@ -20,7 +22,6 @@
 <p> - 🤓 Fã da cultura Geek: Quadrinhos, Filmes, Séries, Jogos e Animes </p>
 </div>
 
-
 ### Ferramentas e Linguagens de Programação:
 <div> 
   <img width="40" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -29,5 +30,7 @@
   <img width="40" height="Git" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img width="40" alt="ServiceNow" src="ServiceNow.svg?raw=true"/>
 </div>
+
+<hr>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=duducardoso&theme=gotham&hide_border=true&area=true)
