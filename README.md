@@ -34,3 +34,9 @@
 <hr>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=duducardoso&theme=gotham&hide_border=true&area=true)
+
+<div align="center">
+
+## O seu começo parecerá modesto, mas o seu futuro será de grande prosperidade 💙🚀
+
+</div>
