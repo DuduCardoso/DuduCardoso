@@ -18,7 +18,7 @@
 <p> - 🏖 Sou carioca e moro no Rio de Janeiro, Brasil </p>
 <p> - 💙 Apaixonado por Tecnologia </p>
 <p> - 👨‍💻 ServiceNow Developer na Extreme Digital Solutions - EDS </p>
-<p> - 👨‍🎓 Graduando em Engenharia de Software, 4° Período </p>
+<p> - 👨‍🎓 Graduando em Engenharia de Software </p>
 <p> - 🤓 Fã da cultura Geek: Quadrinhos, Filmes, Séries, Jogos e Animes </p>
 </div>
 
