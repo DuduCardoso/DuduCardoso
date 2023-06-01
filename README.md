@@ -28,7 +28,7 @@
   <img width="40" height="40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img width="40" height="40" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img width="40" height="Git" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img width="40" alt="ServiceNow" src="ServiceNow.svg?raw=true"/>
+  <img width="43" alt="ServiceNow" src="servicenow-icon.png?raw=true"/>
 </div>
 
 <hr>
