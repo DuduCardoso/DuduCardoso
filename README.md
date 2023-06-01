@@ -11,16 +11,24 @@
 </div>
 
 <hr>
+<br>
+
+<div style="display: inline_block"  >
+<img align="right" width="500" height="278" style="border-radius:30px;" src="Luffy.gif?raw=true" />
+</div>
 
 ### Um Pouco Sobre Mim:
 <div style="display: inline_block"  >
-<img align="right" width="400" height="250" style="border-radius:30px;" src="Luffy.gif?raw=true" />
 <p> - 🏖 Sou carioca e moro no Rio de Janeiro, Brasil </p>
 <p> - 💙 Apaixonado por Tecnologia </p>
 <p> - 👨‍💻 ServiceNow Developer na Extreme Digital Solutions - EDS </p>
 <p> - 👨‍🎓 Graduando em Engenharia de Software </p>
+<p> - 🎯 Interesses: JavaScript, CSS3, HTML5, ServiceNow, Angular, React, NodeJs </p>
 <p> - 🤓 Fã da cultura Geek: Quadrinhos, Filmes, Séries, Jogos e Animes </p>
 </div>
+
+<br>
+<hr>
 
 ### Ferramentas e Linguagens de Programação:
 <div> 
